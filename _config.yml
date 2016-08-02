@@ -1,0 +1,14 @@
+layout_spectrum: 0.9682818332221359
+typography_spectrum: 0.1788314930163324
+color:
+  brandStrength: 0.3504048273898661
+  lightness: 0.812269038753584
+  saturation: 0.06953548057936132
+  rhythmicContrast: 0.9269338459707797
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Redbee
