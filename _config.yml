@@ -6,9 +6,10 @@ color:
   saturation: 0.06953548057936132
   rhythmicContrast: 0.9269338459707797
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Redbee
+title: redbee
